@@ -1,0 +1,2 @@
+lista = "https://www.youtube.com/watch?v=Qn2UUdH0Sdk, https://www.youtube.com/watch?v=T3wEpGRJxSA, https://www.youtube.com/watch?v=xC_eSrX6-fc&list=RDT3wEpGRJxSA&index=3, https://www.youtube.com/watch?v=dgUD9J6MxE0&list=RDT3wEpGRJxSA&index=22".split(',')
+print(lista)
